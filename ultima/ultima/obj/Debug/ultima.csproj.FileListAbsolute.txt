@@ -1,0 +1,13 @@
+C:\Users\joses\source\repos\ultima\ultima\bin\Debug\ultima.exe.config
+C:\Users\joses\source\repos\ultima\ultima\bin\Debug\ultima.exe
+C:\Users\joses\source\repos\ultima\ultima\bin\Debug\ultima.pdb
+C:\Users\joses\source\repos\ultima\ultima\obj\Debug\ultima.csproj.AssemblyReference.cache
+C:\Users\joses\source\repos\ultima\ultima\obj\Debug\ultima.csproj.SuggestedBindingRedirects.cache
+C:\Users\joses\source\repos\ultima\ultima\obj\Debug\ultima.Form1.resources
+C:\Users\joses\source\repos\ultima\ultima\obj\Debug\ultima.Musica.resources
+C:\Users\joses\source\repos\ultima\ultima\obj\Debug\ultima.Peliculas.resources
+C:\Users\joses\source\repos\ultima\ultima\obj\Debug\ultima.Properties.Resources.resources
+C:\Users\joses\source\repos\ultima\ultima\obj\Debug\ultima.csproj.GenerateResource.cache
+C:\Users\joses\source\repos\ultima\ultima\obj\Debug\ultima.csproj.CoreCompileInputs.cache
+C:\Users\joses\source\repos\ultima\ultima\obj\Debug\ultima.exe
+C:\Users\joses\source\repos\ultima\ultima\obj\Debug\ultima.pdb

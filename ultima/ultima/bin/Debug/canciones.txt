@@ -1,0 +1,4 @@
+metallica,master of puppets,1996,metal,metal
+soda stereo,musica ligera,1990,rock
+red hot chilly peppers,under the bridge,1991,rock
+alejandro sanz,amiga mia,1997,pop
